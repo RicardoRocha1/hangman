@@ -1,3 +1,3 @@
 fn main() {
-    println!("Shall we play hangman?");
+    println!("Shall we play Hangman?");
 }
