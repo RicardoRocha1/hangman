@@ -1,0 +1,20 @@
+apple
+banana
+cat
+dog
+elephant
+fish
+guitar
+house
+ice cream
+juice
+kangaroo
+lion
+monkey
+notebook
+orange
+pizza
+queen
+rainbow
+sun
+tree
